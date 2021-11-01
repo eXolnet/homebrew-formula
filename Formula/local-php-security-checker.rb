@@ -12,8 +12,6 @@ class LocalPhpSecurityChecker < Formula
     url :stable
   end
 
-  bottle :unneeded
-
   def install
     bin.install "local-php-security-checker_1.0.0_darwin_amd64" => "local-php-security-checker"
   end
