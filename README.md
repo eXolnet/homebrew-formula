@@ -28,7 +28,7 @@ If you discover any security related issues, please email security@exolnet.com i
 
 ## Credits
 
-- [Pat Gagnon-Renaud](https://github.com/pgrenaud)
+- [Patricia Gagnon-Renaud](https://github.com/pgrenaud)
 - [All Contributors](../../contributors)
 
 ## License
